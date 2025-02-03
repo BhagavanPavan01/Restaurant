@@ -1,0 +1,94 @@
+#navItem1{
+    color: black;
+    font-family: roboto;
+}
+#navItem4{
+    color: black;
+    font-family: roboto;
+}
+#navItem2{
+    color: black;
+    font-family: roboto;
+}
+#navItem3{
+    color: black;
+    font-family: roboto;
+}
+#navItem5{
+  color: black;
+  font-family: roboto;
+}
+#logoimg{
+    height: 60px;
+    width: 60px;
+}
+#rightitem{
+    align-content: center;
+}
+.banner-section-bg-container {
+    background-image: url("https://images.slurrp.com/prodarticles/x43xbktcbg.webp");
+    height: 100vh;
+    background-size: cover;
+  }
+  .banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: 300;
+  }
+  .banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+  }
+  .custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+  }
+  .custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+  }
+  .home-section{
+    background-color: #f9fbfe;
+  }
+  .home-section-heading{
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+  }
+  .description{
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #5a7184;
+  }
+  .home-card{
+    background-color: white;
+    text-align: center;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;  
+  }
+  .home-card-image{
+    height: 90px;
+    width: 87px;
+  }
+  .home-description{
+    font-family: Roboto;
+    font-size: 16px;
+    color: #7b8794;
+  }
