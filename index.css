@@ -125,3 +125,124 @@
   font-weight: 600;
   font-style: italic;
 }
+
+/*<!----explore menu----->*/
+
+.explore-menu-section{
+  background-color: white;
+}
+.menu-section-heading{
+  font-family: "Robot";
+  font-weight: 700;
+  font-size: 28px;
+  color: #183b56;
+}
+.menu-item-image{
+  border-radius: 16px;
+  width: 290px;
+  height: 280px;
+}
+.menu-card-title{
+  font-family: Robot;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 24px;
+  color: #323fb4;
+}
+.menu-item-link{
+  font-family: Robot;
+  font-size: 14px;
+  font-weight: 500;
+}
+.menu-item-card{
+  border-radius: 16px;
+}
+
+/*<!----Fresh, Healthy, Organic, Delicious Fruits----->*/
+
+.healthy-food-section {
+  background-color: #f9fbfe;
+}
+.healthy-food-section-img {
+  width: 270px;
+}
+.healthy-food-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.healthy-food-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.custom-button {
+  color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+.delivery-and-payment-section {
+  background-color: white;
+}
+.delivery-and-payment-section-img {
+  width: 270px;
+}
+.delivery-and-payment-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.delivery-and-payment-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.payment-card-img {
+  width: 50px;
+  height: 50px;
+  margin-right: 28px;
+}
+.custom-button {
+  color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+.thanking-customers-section {
+  background-color: #d0b2001a;
+}
+.thanking-customers-section-heading {
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.thanking-customers-section-description {
+  color: #5a7184;
+  font-family: "Roboto";
+  font-size: 16px;
+}
+.thanking-customers-section-img {
+  width: 270px;
+  margin-bottom: 20px;
+}
+.custom-button {
+  color: white;
+  background-color: #d0b200;
+  width: 130px;
+  height: 45px;
+  border-width: 0;
+  border-radius: 8px;
+  margin-right: 10px;
+}
