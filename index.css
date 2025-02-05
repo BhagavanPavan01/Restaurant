@@ -25,6 +25,11 @@
 #rightitem{
     align-content: center;
 }
+
+.navbar2{
+  height:fit-content;
+  padding: 10px;
+}
 .banner-section-bg-container {
     background-image: url("https://images.slurrp.com/prodarticles/x43xbktcbg.webp");
     height: 100vh;
@@ -98,7 +103,7 @@
     padding-bottom: 0;
  }
  .navbar {
-  height: 60px;
+  height: 80px;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
@@ -219,12 +224,14 @@
   border-width: 0;
   border-radius: 8px;
   margin-right: 10px;
+  background-image: linear-gradient(#d0b200,#a58d00);
 }
 
 /*<!----thanking-customers-section----->*/
 
 .thanking-customers-section {
   background-color: #d0b2001a;
+  background-image: radial-gradient(#fff8db,#fae38c);
 }
 .thanking-customers-section-heading {
   color: #183b56;
@@ -249,4 +256,40 @@
   border-width: 0;
   border-radius: 8px;
   margin-right: 10px;
+}
+/*<!----Fallow us sectin----->*/
+
+.follow-us-section {
+  background-color: white;
+}
+.follow-us-section-heading {
+  text-align: center;
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.follow-us-icon-container {
+  background-color: #faf7e8;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+}
+.icon {
+  color: #d0b200;
+  font-size: 35px;
+}
+.navbar-collapse {
+  background-color: white;
+  text-align: center; 
+  border-radius: 10px;
+}
+.alart-5{
+  color: #d0b200;
+  font-weight: 700;
 }
